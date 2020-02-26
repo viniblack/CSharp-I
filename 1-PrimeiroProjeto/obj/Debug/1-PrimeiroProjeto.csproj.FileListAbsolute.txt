@@ -1,0 +1,6 @@
+C:\Users\vinicius.santana\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe.config
+C:\Users\vinicius.santana\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe
+C:\Users\vinicius.santana\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.pdb
+C:\Users\vinicius.santana\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\vinicius.santana\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.exe
+C:\Users\vinicius.santana\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb

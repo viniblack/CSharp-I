@@ -1,0 +1,12 @@
+C:\Users\vinicius.santana\Desktop\coisas\estudos\CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\Users\vinicius.santana\Desktop\coisas\estudos\CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\Users\vinicius.santana\Desktop\coisas\estudos\CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\Users\vinicius.santana\Desktop\coisas\estudos\CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csprojAssemblyReference.cache
+C:\Users\vinicius.santana\Desktop\coisas\estudos\CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\Users\vinicius.santana\Desktop\coisas\estudos\CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb
+C:\Users\vinicius.santana\Desktop\outros\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\Users\vinicius.santana\Desktop\outros\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\Users\vinicius.santana\Desktop\outros\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\Users\vinicius.santana\Desktop\outros\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csprojAssemblyReference.cache
+C:\Users\vinicius.santana\Desktop\outros\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\Users\vinicius.santana\Desktop\outros\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb
