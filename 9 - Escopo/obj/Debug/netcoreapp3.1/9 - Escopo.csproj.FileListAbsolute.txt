@@ -1,0 +1,11 @@
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9 - Escopo\obj\Debug\netcoreapp3.1\9 - Escopo.csprojAssemblyReference.cache
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9 - Escopo\obj\Debug\netcoreapp3.1\9 - Escopo.AssemblyInfoInputs.cache
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9 - Escopo\obj\Debug\netcoreapp3.1\9 - Escopo.AssemblyInfo.cs
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9 - Escopo\bin\Debug\netcoreapp3.1\9 - Escopo.exe
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9 - Escopo\bin\Debug\netcoreapp3.1\9 - Escopo.deps.json
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9 - Escopo\bin\Debug\netcoreapp3.1\9 - Escopo.runtimeconfig.json
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9 - Escopo\bin\Debug\netcoreapp3.1\9 - Escopo.runtimeconfig.dev.json
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9 - Escopo\bin\Debug\netcoreapp3.1\9 - Escopo.dll
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9 - Escopo\bin\Debug\netcoreapp3.1\9 - Escopo.pdb
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9 - Escopo\obj\Debug\netcoreapp3.1\9 - Escopo.dll
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9 - Escopo\obj\Debug\netcoreapp3.1\9 - Escopo.pdb
