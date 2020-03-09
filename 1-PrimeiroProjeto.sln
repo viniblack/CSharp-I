@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9 - Escopo", "9 - Escopo\9 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.1 - AlíquotaComIfs", "9.1 - AlíquotaComIfs\9.1 - AlíquotaComIfs.csproj", "{3A503E75-D7DB-4CA2-AABB-62AB0936165D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10 - CalculaPopanca", "P10 - CalculaPopanca\P10 - CalculaPopanca.csproj", "{31777967-CC44-4B39-B0D8-4867334FB367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11 - CalculaPopanca2", "P11 - CalculaPopanca2\P11 - CalculaPopanca2.csproj", "{53820F55-9BD8-42C4-9B7D-5FB0E53948E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{3A503E75-D7DB-4CA2-AABB-62AB0936165D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A503E75-D7DB-4CA2-AABB-62AB0936165D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A503E75-D7DB-4CA2-AABB-62AB0936165D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31777967-CC44-4B39-B0D8-4867334FB367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31777967-CC44-4B39-B0D8-4867334FB367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31777967-CC44-4B39-B0D8-4867334FB367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31777967-CC44-4B39-B0D8-4867334FB367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53820F55-9BD8-42C4-9B7D-5FB0E53948E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53820F55-9BD8-42C4-9B7D-5FB0E53948E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53820F55-9BD8-42C4-9B7D-5FB0E53948E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53820F55-9BD8-42C4-9B7D-5FB0E53948E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
