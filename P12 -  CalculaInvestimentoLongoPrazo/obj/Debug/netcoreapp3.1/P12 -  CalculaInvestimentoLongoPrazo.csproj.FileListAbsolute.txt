@@ -1,0 +1,10 @@
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P12 -  CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12 -  CalculaInvestimentoLongoPrazo.exe
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P12 -  CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12 -  CalculaInvestimentoLongoPrazo.deps.json
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P12 -  CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12 -  CalculaInvestimentoLongoPrazo.runtimeconfig.json
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P12 -  CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12 -  CalculaInvestimentoLongoPrazo.runtimeconfig.dev.json
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P12 -  CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12 -  CalculaInvestimentoLongoPrazo.dll
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P12 -  CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12 -  CalculaInvestimentoLongoPrazo.pdb
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P12 -  CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12 -  CalculaInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P12 -  CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12 -  CalculaInvestimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P12 -  CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12 -  CalculaInvestimentoLongoPrazo.dll
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P12 -  CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12 -  CalculaInvestimentoLongoPrazo.pdb
