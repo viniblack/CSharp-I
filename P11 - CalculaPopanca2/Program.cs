@@ -14,7 +14,7 @@ namespace P11___CalculaPopanca2
             for (int contadorMes = 1; contadorMes <= 12; contadorMes++)
             {
 
-                valorIvestido = valorIvestido + valorIvestido * 0.0036;
+                valorIvestido *= 1.0036;
                 Console.WriteLine("Após " + contadorMes + " meses, você terá R$" + valorIvestido);
 
             }
