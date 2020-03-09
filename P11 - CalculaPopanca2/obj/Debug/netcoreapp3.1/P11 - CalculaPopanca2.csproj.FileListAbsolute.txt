@@ -1,0 +1,10 @@
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P11 - CalculaPopanca2\obj\Debug\netcoreapp3.1\P11 - CalculaPopanca2.AssemblyInfoInputs.cache
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P11 - CalculaPopanca2\obj\Debug\netcoreapp3.1\P11 - CalculaPopanca2.AssemblyInfo.cs
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P11 - CalculaPopanca2\bin\Debug\netcoreapp3.1\P11 - CalculaPopanca2.exe
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P11 - CalculaPopanca2\bin\Debug\netcoreapp3.1\P11 - CalculaPopanca2.deps.json
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P11 - CalculaPopanca2\bin\Debug\netcoreapp3.1\P11 - CalculaPopanca2.runtimeconfig.json
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P11 - CalculaPopanca2\bin\Debug\netcoreapp3.1\P11 - CalculaPopanca2.runtimeconfig.dev.json
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P11 - CalculaPopanca2\bin\Debug\netcoreapp3.1\P11 - CalculaPopanca2.dll
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P11 - CalculaPopanca2\bin\Debug\netcoreapp3.1\P11 - CalculaPopanca2.pdb
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P11 - CalculaPopanca2\obj\Debug\netcoreapp3.1\P11 - CalculaPopanca2.dll
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\P11 - CalculaPopanca2\obj\Debug\netcoreapp3.1\P11 - CalculaPopanca2.pdb
