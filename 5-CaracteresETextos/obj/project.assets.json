@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinicius.santana\\Desktop\\outros\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
+      "projectUniqueName": "C:\\Users\\vinicius.santana\\Desktop\\dev\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
       "projectName": "5-CaracteresETextos",
-      "projectPath": "C:\\Users\\vinicius.santana\\Desktop\\outros\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
+      "projectPath": "C:\\Users\\vinicius.santana\\Desktop\\dev\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
       "packagesPath": "C:\\Users\\vinicius.santana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinicius.santana\\Desktop\\outros\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\5-CaracteresETextos\\obj\\",
+      "outputPath": "C:\\Users\\vinicius.santana\\Desktop\\dev\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\5-CaracteresETextos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinicius.santana\\AppData\\Roaming\\NuGet\\NuGet.Config",

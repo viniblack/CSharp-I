@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinicius.santana\\Desktop\\outros\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\4 - ConversoesEOutrosTiposNumericos\\4 - ConversoesEOutrosTiposNumericos.csproj",
+      "projectUniqueName": "C:\\Users\\vinicius.santana\\Desktop\\dev\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\4 - ConversoesEOutrosTiposNumericos\\4 - ConversoesEOutrosTiposNumericos.csproj",
       "projectName": "4 - ConversoesEOutrosTiposNumericos",
-      "projectPath": "C:\\Users\\vinicius.santana\\Desktop\\outros\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\4 - ConversoesEOutrosTiposNumericos\\4 - ConversoesEOutrosTiposNumericos.csproj",
+      "projectPath": "C:\\Users\\vinicius.santana\\Desktop\\dev\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\4 - ConversoesEOutrosTiposNumericos\\4 - ConversoesEOutrosTiposNumericos.csproj",
       "packagesPath": "C:\\Users\\vinicius.santana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinicius.santana\\Desktop\\outros\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\4 - ConversoesEOutrosTiposNumericos\\obj\\",
+      "outputPath": "C:\\Users\\vinicius.santana\\Desktop\\dev\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\4 - ConversoesEOutrosTiposNumericos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinicius.santana\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinicius.santana\\Desktop\\outros\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\3 - CriandoVariaveisPontoFlutuante\\3 - CriandoVariaveisPontoFlutuante.csproj",
+      "projectUniqueName": "C:\\Users\\vinicius.santana\\Desktop\\dev\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\3 - CriandoVariaveisPontoFlutuante\\3 - CriandoVariaveisPontoFlutuante.csproj",
       "projectName": "3 - CriandoVariaveisPontoFlutuante",
-      "projectPath": "C:\\Users\\vinicius.santana\\Desktop\\outros\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\3 - CriandoVariaveisPontoFlutuante\\3 - CriandoVariaveisPontoFlutuante.csproj",
+      "projectPath": "C:\\Users\\vinicius.santana\\Desktop\\dev\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\3 - CriandoVariaveisPontoFlutuante\\3 - CriandoVariaveisPontoFlutuante.csproj",
       "packagesPath": "C:\\Users\\vinicius.santana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinicius.santana\\Desktop\\outros\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\3 - CriandoVariaveisPontoFlutuante\\obj\\",
+      "outputPath": "C:\\Users\\vinicius.santana\\Desktop\\dev\\estudos\\alura\\CSharp\\CS-I\\1-PrimeiroProjeto\\3 - CriandoVariaveisPontoFlutuante\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinicius.santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
