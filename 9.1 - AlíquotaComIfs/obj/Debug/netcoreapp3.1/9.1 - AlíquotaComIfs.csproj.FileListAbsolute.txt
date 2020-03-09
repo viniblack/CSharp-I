@@ -1,0 +1,10 @@
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9.1 - AlíquotaComIfs\bin\Debug\netcoreapp3.1\9.1 - AlíquotaComIfs.exe
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9.1 - AlíquotaComIfs\bin\Debug\netcoreapp3.1\9.1 - AlíquotaComIfs.deps.json
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9.1 - AlíquotaComIfs\bin\Debug\netcoreapp3.1\9.1 - AlíquotaComIfs.runtimeconfig.json
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9.1 - AlíquotaComIfs\bin\Debug\netcoreapp3.1\9.1 - AlíquotaComIfs.runtimeconfig.dev.json
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9.1 - AlíquotaComIfs\bin\Debug\netcoreapp3.1\9.1 - AlíquotaComIfs.dll
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9.1 - AlíquotaComIfs\bin\Debug\netcoreapp3.1\9.1 - AlíquotaComIfs.pdb
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9.1 - AlíquotaComIfs\obj\Debug\netcoreapp3.1\9.1 - AlíquotaComIfs.AssemblyInfoInputs.cache
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9.1 - AlíquotaComIfs\obj\Debug\netcoreapp3.1\9.1 - AlíquotaComIfs.AssemblyInfo.cs
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9.1 - AlíquotaComIfs\obj\Debug\netcoreapp3.1\9.1 - AlíquotaComIfs.dll
+C:\Users\vinicius.santana\Desktop\dev\estudos\alura\CSharp\CS-I\1-PrimeiroProjeto\9.1 - AlíquotaComIfs\obj\Debug\netcoreapp3.1\9.1 - AlíquotaComIfs.pdb
